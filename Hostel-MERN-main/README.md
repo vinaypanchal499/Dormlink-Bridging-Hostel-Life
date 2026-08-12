@@ -1,7 +1,7 @@
 
 ## Login Details
 - AdminLogin
-    - vnkatesh@gmail.com
+    - venkatesh@gmail.com
     - Password: test@123
 - Login
     - vikas@gmail.com

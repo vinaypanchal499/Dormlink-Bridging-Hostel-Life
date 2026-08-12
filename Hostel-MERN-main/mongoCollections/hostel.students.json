@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6467df72c2b3142559d29326"
+  },
+  "name": "AbdulAhad",
+  "cms_id": 368115,
+  "room_no": 212,
+  "batch": 2021,
+  "dept": "seecs",
+  "course": "cs",
+  "email": "ahad@gmail.com",
+  "father_name": "dadaadad",
+  "contact": "03260144411",
+  "address": "dasdsaadsads",
+  "dob": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "cnic": "6110197584215",
+  "user": {
+    "$oid": "6467df72c2b3142559d29324"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T20:43:30.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e102f5a880e4c50944a311"
+  },
+  "name": "sk tazim",
+  "room_no": 201,
+  "batch": 2025,
+  "dept": "CSE",
+  "course": "CSE",
+  "email": "tazimmunaf@gmail.com",
+  "father_name": "SKM",
+  "contact": "91 7337638738",
+  "address": "bidar",
+  "dob": {
+    "$date": "2025-10-04T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "68e102f5a880e4c50944a30f"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2025-10-04T11:20:21.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e10999a06771b1d7cc42f5"
+  },
+  "name": "Venkatesh",
+  "cms_id": 368116,
+  "room_no": 215,
+  "batch": 2021,
+  "dept": "seecs",
+  "course": "cs",
+  "email": "venkatesh@gmail.com",
+  "father_name": "dadaadad",
+  "contact": "03260144411",
+  "address": "dasdsaadsads",
+  "dob": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "cnic": "6110197584212",
+  "user": {
+    "$oid": "645b965902723b061fab22a0"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T20:43:30.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e10d0455cec614b87f6dd1"
+  },
+  "name": "Vinod",
+  "room_no": 101,
+  "batch": 2025,
+  "dept": "CSE",
+  "course": "CSE",
+  "email": "vinod@gmail.com",
+  "father_name": "VK",
+  "contact": "91 7337638739",
+  "address": "Bidar",
+  "dob": {
+    "$date": "2025-10-04T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "68e10d0455cec614b87f6dcf"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2025-10-04T12:03:16.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e10d4655cec614b87f6dd6"
+  },
+  "name": "Vivek",
+  "room_no": 209,
+  "batch": 2025,
+  "dept": "CSE",
+  "course": "CSE",
+  "email": "vivek@gmail.com",
+  "father_name": "VIK",
+  "contact": "91 7337638766",
+  "address": "Bidar",
+  "dob": {
+    "$date": "2025-10-04T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "68e10d4655cec614b87f6dd4"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2025-10-04T12:04:22.965Z"
+  },
+  "__v": 0
+}]

@@ -4,8 +4,8 @@
     - venkatesh@gmail.com
     - Password: test@123
 - Login
-    - vikas@gmail.com
-    - Password: 12345678
+    - mahesh@gmail.com
+    - Password: 12345687
 
 ## Add .env file in backend folder with following content
 ```

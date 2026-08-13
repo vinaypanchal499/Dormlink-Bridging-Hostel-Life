@@ -37,7 +37,6 @@ It also provides a platform for students to share and borrow useful items within
 * Submit suggestions
 * Request mess-off
 * View fee information
-* View hostel events
 * Resource sharing
 * Borrow and lend items within the hostel community
 
@@ -46,12 +45,10 @@ It also provides a platform for students to share and borrow useful items within
 * Admin authentication
 * Admin dashboard
 * Add and manage students
-* Manage hostel rooms
 * Manage student fees
 * Manage mess-off requests
 * Manage complaints
 * Manage suggestions
-* Manage hostel events
 * Monitor hostel activities
 
 ## 🛠️ Technology Stack
@@ -265,7 +262,6 @@ Fees
 Complaints
 Suggestions
 MessOffs
-Events
 Resources
 ```
 
